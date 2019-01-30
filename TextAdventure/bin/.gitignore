@@ -1,0 +1,16 @@
+/area.class
+/commands.class
+/coordinates.class
+/direction$1.class
+/direction.class
+/game.class
+/inventory.class
+/item.class
+/items.json
+/layout.json
+/map$1.class
+/map$2.class
+/map.class
+/parser.class
+/player.class
+/tempArea.class

@@ -1,0 +1,51 @@
+[
+	{
+		"name" : "nothing",
+	    "id" : 0,
+	    "type" : "",
+	    "description" : "",
+	    "weight" : 0 },
+     
+	{
+	    "name" : "hammer",
+	    "id" : 2,
+    	"type" : "tool/weapon",
+    	"description" : "an old rusty hammer",
+	    "weight" : 10 },
+    
+    {
+	    "name" : "Note",
+	    "id" : 3,
+    	"type" : "item",
+    	"description" : "a torn up note that reads: The Cinder Lands are a region overwhelmed by \n darkness and mystery, as you explore you will learn how this came to be.",
+	    "weight" : 2 },
+    
+    {
+	    "name" : "rock",
+	    "id" : 4,
+    	"type" : "tool/weapon",
+    	"description" : "A rock that fits wierdly well in your hand.",
+	    "weight" : 5 },
+	    
+	{
+	    "name" : "unknown_potion",
+	    "id" : 5,
+    	"type" : "consumable",
+    	"description" : "A potion that has a slight glow lureing you to drink it.",
+	    "weight" : 5 },
+	    
+	{
+	    "name" : "dagger",
+	    "id" : 6,
+    	"type" : "weapon",
+    	"description" : "An old dagger that seems a little dull but could be useful.",
+	    "weight" : 15 },
+	    
+	{
+	    "name" : "broad_sword",
+	    "id" : 7,
+    	"type" : "weapon",
+    	"description" : "A big sword that looks like will take great strength to wield.",
+	    "weight" : 30 }
+	    
+]

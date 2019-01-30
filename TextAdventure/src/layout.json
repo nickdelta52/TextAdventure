@@ -1,0 +1,133 @@
+[
+	{
+		"title" : "start1",
+		"coords" : ["0", "0", "0"],
+		"description" : "This is some rickety old shack, water drips from a hole in the roof,\n there is a table, a bed and a door.",
+		"items": ["note"] },
+		
+	{
+		"title" : "field1-1",
+		"coords" : ["0", "1", "0"], 
+		"description" : "You walk into the middle of a field surrounded by tall grass. You see trees to the north and a forest to the east.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "field1-2",
+		"coords" : ["0", "2", "0"], 
+		"description" : "There is a small broken well with a bucket hanging in it.",
+		"items": ["dagger"] },
+		
+	{
+		"title" : "field1-3",
+		"coords" : ["0", "3", "0"], 
+		"description" : "The mountains loom to the north and west you will not be able to pass these mountains.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest1-1",
+		"coords" : ["1", "0", "0"], 
+		"description" : "The edge of a dense evergreen forest that gives you an eerie feeling as you look deep in.",
+		"items": ["nothing"] },
+					
+	{
+		"title" : "forest1-2",
+		"coords" : ["1", "1", "0"], 
+		"description" : "Skirting the edge of the forest you see mountains north of the field.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest1-3",
+		"coords" : ["1", "2", "0"], 
+		"description" : "Skirting the edge of the forest you see mountains north of the field.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest2-1",
+		"coords" : ["2", "0", "0"],
+		"description" : "You can see the edge of the forest in the distance, but feel uneasy that you may lose your way.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest2-2",
+		"coords" : ["2", "1", "0"],
+		"description" : "You can see the edge of the forest in the distance, but feel uneasy that you may lose your way.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest2-3",
+		"coords" : ["2", "2", "0"],
+		"description" : "You can see the edge of the forest in the distance, but feel uneasy that you may lose your way.",
+		"items": ["nothing"] },
+					
+	{
+		"title" : "forest3-1",
+		"coords" : ["3", "0", "0"],
+		"description" : "You think you may be lost but you think you see some type of shelter to the north.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest3-2",
+		"coords" : ["3", "1", "0"],
+		"description" : "You walk into an old abandoned barracks, that looks like it has been taken over by nature.",
+		"items": ["broad_sword"] },
+		
+	{
+		"title" : "forest3-3",
+		"coords" : ["3", "2", "0"],
+		"description" : "You think you may be lost but you think you see some type of shelter to the south.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest4-1",
+		"coords" : ["4", "0", "0"],
+		"description" : "The surrounding area is very dark and you start to feel frightened.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest4-2",
+		"coords" : ["4", "1", "0"],
+		"description" : "The surrounding area is very dark and you start to feel frightened.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest4-3",
+		"coords" : ["4", "2", "0"],
+		"description" : "The surrounding area is very dark and you start to feel frightened.",
+		"items": ["nothing"] },
+	
+	{
+		"title" : "forest5-1",
+		"coords" : ["5", "0", "0"],
+		"description" : "There is a strangly shaped tree that looks like it may have been used as a stash.",
+		"items": ["unknown potion"] },
+		
+	{
+		"title" : "forest5-2",
+		"coords" : ["5", "1", "0"],
+		"description" : "You feel some strange light shining down on you.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest5-3",
+		"coords" : ["5", "2", "0"],
+		"description" : "You walk into a small clearing.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest6-1",
+		"coords" : ["6", "0", "0"],
+		"description" : "You feel lured towards the north as if there was some magic there.",
+		"items": ["nothing"] },
+		
+	{
+		"title" : "forest6-2",
+		"coords" : ["6", "1", "0"],
+		"description" : "You walk into a wizard tower.",
+		"items": ["unknown_potion"] },
+		
+	{
+		"title" : "forest6-3",
+		"coords" : ["6", "2", "0"],
+		"description" : "You walk into a small clearing.",
+		"items": ["nothing"] }
+]
